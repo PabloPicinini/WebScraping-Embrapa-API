@@ -310,8 +310,8 @@ No dicionário de usuários fictícios, está presente 3 usuários:
 - outro_usuario
   - senha: outra_senha
   - permissões: Importação, Exportação.
-- admin_usuario
-  - senha: admin_senha
+- admin
+  - senha: admin
   - permissões: Acesso total
 
 Exemplo de requisição de login:
